@@ -1,0 +1,10 @@
+/*CSS for footer*/
+
+.navbar-fixed-bottom{
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.navbar-brand{
+	margin-bottom: 0;
+}

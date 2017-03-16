@@ -1,0 +1,32 @@
+/* Theme */
+body {
+	background:url('../images/BGtile.jpg') repeat;
+	padding: 70px 0;
+}
+
+
+.panel, .panel-heading, .list-group-item{
+	background: #FFC ! important;
+}
+
+.list-group-item:hover{
+	background: #FFB ! important
+}
+
+nav {
+	background: #E3D18E ! important;
+}
+
+.avatar{
+	width: 150px;
+	height: 150px;
+}
+
+a.navbar-brand, .nav>li>a {
+	color: #000 ! important;
+}
+
+.downArrow {
+	font-size: 36px;
+	padding-right: 20px;
+}
